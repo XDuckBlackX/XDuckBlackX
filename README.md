@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-<p align+"center">  <ing align+"center" src="https://profile-counter.glitch.me/XDuckBlackX/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/XDuckBlackX/count.svg" /></p>
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
