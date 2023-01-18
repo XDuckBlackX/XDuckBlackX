@@ -16,3 +16,5 @@
 
     
 ![snake gif](https://github.com/XDuckBlackX/XDuckBlackX/blob/output/github-contribution-grid-snake.svg)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDuckBlackX)](https://github.com/XDuckBlackX/github-readme-stats)
