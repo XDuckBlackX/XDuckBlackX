@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Seja bem vindo!</h2>
-Hi, i'm Vinicios, student of computer networks at the Federal University of Santa Maria - Brazil
+Hi, i'm Vinicios, computer engineering student at the Federal University of Santa Maria - Brazil
 </div>
 </br>
 <div align="center">
